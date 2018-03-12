@@ -1,3 +1,4 @@
+
 state={
 	id=762
 	name="STATE_762"
@@ -6,12 +7,16 @@ state={
 		owner = CZE
 		add_core_of = CZE
 		add_claim_by = AUS
-
+		buildings = {
+			infastructure = 8
+		}
 	}
 
 	provinces={
-		543 557 5283 7857 11525 
+		543 557 11525 
 	}
-	manpower=0
+	manpower=9999
 	buildings_max_level_factor=1.000
+	state_category = town
+	
 }
